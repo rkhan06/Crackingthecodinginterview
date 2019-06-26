@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="724aad67-e433-4505-a60c-d535ee97b653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 1/one_away.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 1/palindrome_permutations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter 1/palindrome_permutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="725">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -26,14 +25,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CTCI/chapter 1/Palindrome_Permutation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" lean-forward="true" selection-end-line="46" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="6" selection-start-column="6" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -49,6 +48,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Chapter 1/one_away.py" />
         <option value="$PROJECT_DIR$/Chapter 1/palindrome_permutations.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -72,11 +72,6 @@
               <item name="Crackingthecodinginterview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Crackingthecodinginterview" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Crackingthecodinginterview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Crackingthecodinginterview" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -99,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests in palindrome_permutations.py">
     <configuration name="Unittests in one_away.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Crackingthecodinginterview" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,8 +109,23 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in palindrome_permutations.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Crackingthecodinginterview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Chapter 1/palindrome_permutations.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in palindrome_permutations.py" />
         <item itemvalue="Python tests.Unittests in one_away.py" />
       </list>
     </recent_temporary>
@@ -137,21 +147,24 @@
     <history-entry file="Unittests_in_one_away_py - 2019.06.26 at 21h 21m 33s.xml">
       <configuration name="Unittests in one_away.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_palindrome_permutations_py - 2019.06.26 at 21h 22m 05s.xml">
+      <configuration name="Unittests in palindrome_permutations.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1366" height="742" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" weight="0.32956383" />
       <window_info anchor="bottom" id="Python Console" weight="0.32956383" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32956383" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32956383" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956383" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,11 +234,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 1/palindrome_permutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="725">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="6" selection-start-column="6" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
