@@ -12,7 +12,7 @@ def is_unique(s):
 
 
 class Test(unittest.TestCase):
-    data = [("ramen", False),
+    data = [("ramen", True),
             ("asdaffa", False),
             ("abcdefgh", True),
             ("isthunqe", True),
@@ -22,8 +22,7 @@ class Test(unittest.TestCase):
     def test_unique(self):
         for [str, output] in self.data:
             result = is_unique(str)
-
-        self.assertEqual(result, output)
+            self.assertEqual(result, output)
 
 
 if __name__ == "__main__":

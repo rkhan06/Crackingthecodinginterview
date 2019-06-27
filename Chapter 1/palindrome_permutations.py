@@ -33,8 +33,7 @@ class Test(unittest.TestCase):
     def test_palindrome(self):
         for [test_str, returned] in self.data:
             result = permutation(test_str.replace(" ", ""))
-
-        self.assertEqual(result,returned)
+            self.assertEqual(result,returned)
 
 
 if __name__ == "__main__":
